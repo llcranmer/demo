@@ -1,1 +1,1 @@
-# demo
+# Use Lander Template for Landing Page
